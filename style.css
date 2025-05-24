@@ -51,7 +51,7 @@ html, body{
 }
 
 .button:hover{
-    color:white;
+    color: black;
     background: #ff4500;
     box-shadow: 0 0 35px orange;
 }
