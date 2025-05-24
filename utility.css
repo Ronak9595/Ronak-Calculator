@@ -1,0 +1,24 @@
+.flex{
+    display:flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.mx-auto{
+    margin: 0 auto;
+}
+
+
+.text-center{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-shadow: 2px 2px 5px #e48400, 0 0 10px #fe5a1d;
+    
+}
